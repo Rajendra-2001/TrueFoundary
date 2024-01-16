@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TrueFoundary/static/css/main.54a575e4.css",
+    "main.js": "/TrueFoundary/static/js/main.96e208d8.js",
+    "index.html": "/TrueFoundary/index.html",
+    "main.54a575e4.css.map": "/TrueFoundary/static/css/main.54a575e4.css.map",
+    "main.96e208d8.js.map": "/TrueFoundary/static/js/main.96e208d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54a575e4.css",
+    "static/js/main.96e208d8.js"
+  ]
+}
